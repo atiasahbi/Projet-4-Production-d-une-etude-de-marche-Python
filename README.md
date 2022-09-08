@@ -25,3 +25,7 @@ Utiliser la carte de chaleur pour segmenter les groupes des pays.
 
 
 <img alt="Clusters" width="40%" src="./clusters.PNG" style="padding-right:10px;" />
+
+## Modele KMeans avec sklearn
+
+<img alt="Clusters" width="40%" src="./clusters.PNG" style="padding-right:10px;" />
