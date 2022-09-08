@@ -23,4 +23,4 @@ Utiliser un PCA (Principal Component Analysis) pour explorer et comprendre les d
 Utiliser la carte de chaleur pour segmenter les groupes des pays.
 
 
-<img alt="MySQL" width="50%" src="./data/kmeans_.png" style="padding-right:10px;" />
+<img alt="MySQL" width="50%" src="./clusters.PNG" style="padding-right:10px;" />
