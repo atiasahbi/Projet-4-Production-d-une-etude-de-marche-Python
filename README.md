@@ -12,11 +12,11 @@ Determiner les indicateurs à consider pour collecter et nettoyer les données d
 
 ## Exploration des données
 
-Used a Principal Component Analysis to explore and understand data.
+Utiliser un PCA (Principal Component Analysis) pour explorer et comprendre les données.
 
-**PCA** Model with sklearn.
+ Modèl **PCA** avec sklearn.
 
-<img alt="MySQL" width="80%" src="./data/pca.png" style="padding-right:10px;" />
+<img alt="MySQL" width="80%" src="./cercle de correlation.png" style="padding-right:10px;" />
 
 ## Clustering
 
