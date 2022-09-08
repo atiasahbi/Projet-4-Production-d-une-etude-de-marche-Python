@@ -1,16 +1,16 @@
-# PESTEL Analysis with Machine Learning
+# Etude de marché avec Machine learning et KMeans
 
-Implemented a non supervised algorithm (KMeans) with python and Sklearn in order to propose groups of countries according to several indicators for **international poultry meat trade**.
+Un modèl non supervisé (KMeans) implémenté avec Python et Sklearn pour proposer des groupes des pays en tenant en compte plusieurs paramètres pour une entreprise internationale d'agroalimentaire.**.
 
-## Data Pre-processing
+## Préparation et transformation des données
 
-Determined the indicators to consider then collected and cleaned data related from [FAOSTAT](https://www.fao.org/faostat/en/) and [World bank open data](https://donnees.banquemondiale.org/).
-- 2 macro-economic indicators that provide information on the country's wealth: **GDP per capita** and **GDP per capita growth**.
-- 2 socio-economic indicators : **Average population growth** and the **Political stability** of the country.
-- 2 indicators related to food availability : **Imports quantity related to the product**.
-- 2 criteria that provide information on the **Continent** and M**embership of the European Union**.
+Determiner les indicateurs à consider pour collecter et nettoyer les données depuis [FAOSTAT](https://www.fao.org/faostat/en/) et [World bank open data](https://donnees.banquemondiale.org/).
+- Indicateurs economiques **.
+- Indicateurs socio-economique **.
+- Indicateurs relié à la disponibilité des aliments **.
+- Indicateur de stabilité politique **.
 
-## Data Exploration
+## Exploration des données
 
 Used a Principal Component Analysis to explore and understand data.
 
