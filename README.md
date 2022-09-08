@@ -5,10 +5,11 @@ Un modèl non supervisé (KMeans) implémenté avec Python et Sklearn pour propo
 ## Préparation et transformation des données
 
 Determiner les indicateurs à consider pour collecter et nettoyer les données depuis [FAOSTAT](https://www.fao.org/faostat/en/) et [World bank open data](https://donnees.banquemondiale.org/).
-- Indicateurs economiques **.
-- Indicateurs socio-economique **.
-- Indicateurs relié à la disponibilité des aliments **.
-- Indicateur de stabilité politique **.
+
+- Indicateurs economiques
+- Indicateurs socio-economique
+- Indicateurs relié à la disponibilité des aliments
+- Indicateur de stabilité politique
 
 ## Exploration des données
 
