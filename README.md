@@ -16,7 +16,7 @@ Utiliser un PCA (Principal Component Analysis) pour explorer et comprendre les d
 
  Modèl **PCA** avec sklearn.
 
-<img alt="MySQL" width="80%" src="./cercle de correlation.png" style="padding-right:10px;" />
+<img alt="MySQL" width="80%" src="./cercle de correlation" style="padding-right:10px;" />
 
 ## Clustering
 
