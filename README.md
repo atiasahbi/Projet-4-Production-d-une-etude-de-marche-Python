@@ -16,11 +16,11 @@ Utiliser un PCA (Principal Component Analysis) pour explorer et comprendre les d
 
  Modèl **PCA** avec sklearn.
 
-<img alt="cerle" width="80%" src="./cercle de correlation.PNG" style="padding-right:10px;" />
+<img alt="cerle" width="50%" src="./cercle de correlation.PNG" style="padding-right:10px;" />
 
 ## Clustering
 
 Utiliser la carte de chaleur pour segmenter les groupes des pays.
 
 
-<img alt="MySQL" width="50%" src="./clusters.PNG" style="padding-right:10px;" />
+<img alt="Clusters" width="50%" src="./clusters.PNG" style="padding-right:10px;" />
